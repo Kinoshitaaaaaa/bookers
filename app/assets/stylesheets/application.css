@@ -17,8 +17,8 @@
 
 
 h1{
-  font-size:2em;
-
+  font-size:26px;
+  font-weight:bold;
 }
 
 strong{
@@ -28,6 +28,8 @@ strong{
 body{
   color:#333;
   font-family:verdana, arial, helvetica, sans-serif;
+  line-height:18px;
+  margin:33px;
 
 }
 
@@ -36,12 +38,13 @@ p{
   font-size:13px;
 }
 
-table th{
+
+tr p{
   padding-bottom:5px;
   display:table-cell;
   vertical-align:inherit;
   font-weight:bold;
-  text-align:center;
+  
 }
 
 table tr{
